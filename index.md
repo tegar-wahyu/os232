@@ -1,4 +1,14 @@
 ---
+permalink: TXT/mylog.txt
+---
+
+# MyLog
+
+* [Tegar's Log](https://github.com/tegar-wahyu/os232/blob/main/TXT/mylog.txt) --- 
+<br>
+<hr>
+
+---
 permalink: LINKS/
 ---
 
