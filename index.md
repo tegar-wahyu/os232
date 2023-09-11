@@ -1,13 +1,5 @@
----
-permalink: LINK/
----
+# OS232
 
-# LINKS
+|| [TARBALL](SandBox/tegar-wahyu.tar.xz) || [LINKS](LINKS/) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/tegar-wahyu/os232/) ||
 
-* [Bash in 100 Seconds](https://www.youtube.com/watch?v=I4EWvMFj37g) --- 
-Simple and concise summary of bash. Easy to understand with good visualization.
-
-* [AWK command in Unix/Linux with examples](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/) ---
-Basic understanding of AWK and its command. Contains a complete and thorough explanation
-<br>
-<hr>
+#### REV01: Mon 11 Sep 2023 21:00
