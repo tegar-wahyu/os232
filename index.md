@@ -1,6 +1,6 @@
 ---
 permalink: TXT/mylog.txt 
-permalink LINK/
+permalink: LINK/
 ---
 
 # MyLog
