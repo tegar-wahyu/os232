@@ -1,6 +1,12 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W04 40 L24 Scripting in general
+ZCZC W04 90 L21 Trying something
+ZCZC W04 20 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 30 L14 Assignment #04
+ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
+
 ZCZC W03 120 L21 Trying something
 ZCZC W03 25 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 20 L05 Quiz related including studying
