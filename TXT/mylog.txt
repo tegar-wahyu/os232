@@ -1,6 +1,13 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W07 20 L24 Scripting in general
+ZCZC W07 60 L81 Listening: Radio, Music, etc.
+ZCZC W07 120 L21 Trying something
+ZCZC W07 30 L17 Assignment #07
+ZCZC W07 15 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 100 L02 CLASSROOM/ZOOM meetings related
+
 ZCZC W06 30 L24 Scripting in general
 ZCZC W06 90 L64 Helping a friend (OS related problem)
 ZCZC W06 90 L81 Listening: Radio, Music, etc.
